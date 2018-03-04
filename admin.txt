@@ -291,3 +291,6 @@ superuser%EXT%
 supervise/
 supervise/Login%EXT%
 super%EXT%
+hackz/
+hahackadmin/
+wp-admins
