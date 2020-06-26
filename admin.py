@@ -29,12 +29,4 @@ def findAdmin():
 		else:
 			print "OK => ",req_link
 
-def Credit():
-	Space(9); print "#####################################"
-	Space(9); print "#   *** Admin panel Finder***   #"
-	Space(9); print "#     Script by 007h4ck3r white Hat   #"
-	Space(9); print "#    Stay llegal   #"
-	Space(9); print "#####################################"
-
-Credit()
 findAdmin()
